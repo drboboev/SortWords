@@ -1,0 +1,17 @@
+{
+  "name": "drboboev/sortwords",
+  "description": "Sorting words in string",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Daler Boboev",
+      "email": "boboevdr@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "4.8.9"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}

@@ -1,12 +1,12 @@
 ### SORTING WORDS
 
 Requirements:
-* PHP 5.3.0 or higher
+* PHP 7.1 or higher
 
 Installation:
 
 ```
-composer require drboboev/SortWords
+composer require drboboev/sortwords
 ```
 
 Usage:
@@ -14,7 +14,7 @@ Usage:
 Add class to your code:
 
 ```php
-use drboboev\SortWords\SortWords;
+use Drboboev\SortWords\SortWords;
 ```
 
 Create object:

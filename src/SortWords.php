@@ -4,7 +4,7 @@ namespace drboboev\SortWords;
 
 class SortWords
 {
-    public function sort($string)
+    public function sort(string $string): string
     {
         $words = mb_split("\s", $string);
 

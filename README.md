@@ -14,7 +14,7 @@ Usage:
 Add class to your code:
 
 ```php
-use Drboboev\SortWords\SortWords;
+use drboboev\SortWords\SortWords;
 ```
 
 Create object:
